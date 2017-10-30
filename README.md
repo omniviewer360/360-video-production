@@ -1,2 +1,2 @@
 # 360-video-production
-This is to help organise files for my 360 video production company www.omniviewer360.com
+This is to help organise files for my interactive 360 virtual tour company https://www.onlinevr.co.uk
